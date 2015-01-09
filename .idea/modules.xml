@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Practice.iml" filepath="$PROJECT_DIR$/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apiDemos/apiDemos.iml" filepath="$PROJECT_DIR$/apiDemos/apiDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsutkeep/jsutkeep.iml" filepath="$PROJECT_DIR$/jsutkeep/jsutkeep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logger/logger.iml" filepath="$PROJECT_DIR$/logger/logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logmodule/logmodule.iml" filepath="$PROJECT_DIR$/logmodule/logmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_browser/test_browser.iml" filepath="$PROJECT_DIR$/test_browser/test_browser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_email/test_email.iml" filepath="$PROJECT_DIR$/test_email/test_email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testuncaughtexceptionhandler/testuncaughtexceptionhandler.iml" filepath="$PROJECT_DIR$/testuncaughtexceptionhandler/testuncaughtexceptionhandler.iml" />
+    </modules>
+  </component>
+</project>
+
